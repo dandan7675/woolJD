@@ -163,7 +163,7 @@ Apple京东自营旗舰店
 
   > 目前默认只有jd_fruit.js,jd_pet.js,jd_bean_sign.js,jd_818.js四个脚本每次运行后都通知
 
-  ```
+  ``` 
 jd_plantBean.js是每周一收集京豆后通知一次，
 jd_joy_reward.js是每次兑换到了京豆通知一次，
 jd_blueCoin.js是每次兑换到了奖品通知一次，
